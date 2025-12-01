@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../../tests/Ddns/Ddns.IntegrationTests/Ddns.IntegrationTests.csproj" />
+  <Project Path="../../tests/Ddns/Ddns.UnitTests/Ddns.UnitTests.csproj" />
+  <Project Path="Ddns.Api/Ddns.Api.csproj" />
+  <Project Path="Ddns.Domain/Ddns.Domain.csproj" />
+  <Project Path="Ddns.Infrastructure/Ddns.Infrastructure.csproj" />
+</Solution>
